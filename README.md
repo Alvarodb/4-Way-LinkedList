@@ -2,7 +2,7 @@
 
 - This  4-Way-LinkedList implementation was used for a console game in C++, the list
 is fill by reading the file called **"map.txt"** and the actual internal representation
-of the list after lecture can be fine in the image **"map.png"**. In the actual game, the list
+of the list after lecture can be find in the image **"map.png"**. In the actual game, the list
 represents the whole map, each character represents a different obstacle or part of the map. Of course
 this implementation can be used in different topics that include this type of data structure.
 
